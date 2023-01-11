@@ -2,7 +2,7 @@ import React from 'react'
 
 const ColorMapping = () => {
   return (
-    <div>ColorMapping</div>
+    <div className='flex justify-center text-gray-500'>Color-Mapping is in progress</div>
   )
 }
 

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Stacked = () => {
   return (
-    <div>Stacked</div>
+    <div className='flex justify-center text-gray-500'>Stacked Chart is in progress</div>
   )
 }
 

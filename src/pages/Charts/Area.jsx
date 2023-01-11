@@ -2,7 +2,7 @@ import React from 'react'
 
 const Area = () => {
   return (
-    <div>Area</div>
+    <div className='flex justify-center text-gray-500'>Area Chart in progress</div>
   )
 }
 

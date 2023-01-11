@@ -2,7 +2,7 @@ import React from 'react'
 
 const Bar = () => {
   return (
-    <div>Bar</div>
+    <div className='flex justify-center text-gray-500'>Bar Chart is in progress</div>
   )
 }
 
